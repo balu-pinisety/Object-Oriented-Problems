@@ -1,0 +1,22 @@
+{
+	"inventoryDetails" : [
+		{
+			"name" : "basmathi",
+			"weight"  12.12,
+			"pricePerKg" : 80,
+			"type" : "rice"
+		},
+		{
+			"name" : "cowpeas",
+			"weight"  13.50,
+			"pricePerKg" : 90,
+			"type" : "pulses"
+		},
+		{
+			"name" : "common wheat",
+			"weight"  12.25,
+			"pricePerKg" : 60,
+			"type" : "wheat"
+		}
+	]
+}
